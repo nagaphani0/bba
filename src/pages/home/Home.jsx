@@ -105,14 +105,14 @@ const PartOne = () => {
             </Grid>
           </Grid>
           <Grid container lg={3} className="Right">
-            <iframe
+            {/* <iframe
               frameborder="0"
               style={{ backgroundColor: "white" }}
               width="100%"
               height="630px"
               sandbox="allow-top-navigation allow-scripts allow-same-origin allow-downloads"
               src="https://widgets.in5.nopaperforms.com/register?&amp;r=https://admissions.mitwpu.edu.in/bba/?utm_source=VidyaVision&amp;utm_medium=Website&amp;utm_campaign=MIT_WPU24&amp;q=utm_sourcenpfeqVidyaVision||utm_mediumnpfeqWebsite||utm_campaignnpfeqMIT_WPU24&amp;w=44a9722717e8a9377a3648f0ea33599d&amp;m=&amp;cu=https://admissions.mitwpu.edu.in/bba/?utm_source=VidyaVision&amp;utm_medium=Website&amp;utm_campaign=MIT_WPU24"
-            ></iframe>
+            ></iframe> */}
           </Grid>
         </Grid>
       </Box>
