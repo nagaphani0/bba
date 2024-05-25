@@ -160,7 +160,11 @@ const PartTwo = () => {
       sx={{
         backgroundImage:
           "url(https://admissions.mitwpu.edu.in/frontend/assets/images/banner/19.webp)",
-        color: "#fff",
+          
+         color: "#fff",
+        //  backgroundSize:'100%',
+         
+         backgroundRepeat:'no-repeat'
       }}
     >
       <Box sx={{ marginX: "50px" }}>
